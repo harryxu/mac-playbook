@@ -1,0 +1,19 @@
+---
+
+configure_osx: true
+
+homebrew_installed_packages:
+  - git
+  - go
+  - sqlite
+  - ssh-copy-id
+  - readline
+  - openssl
+  - wget
+  - fish
+  - font-iosevka-curly-slab
+  - font-iosevka-slab
+  - font-iosevka-nerd-font
+
+homebrew_taps:
+  - homebrew/cask-fonts
